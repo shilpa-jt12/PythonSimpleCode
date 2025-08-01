@@ -1,0 +1,1 @@
+Code is about get the count of 'sum' in the main string input
